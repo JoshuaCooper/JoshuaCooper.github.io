@@ -1,0 +1,15 @@
+url: JoshuaCooper.github.io
+baseurl: ''
+compass:
+  logo: "/images/compass.png"
+  author: Compass
+  tagline: The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing
+    page
+  include_content: true
+  include_analytics: false
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+relative_permalinks: true
+github_username: JoshuaCooper
+theme: compass
